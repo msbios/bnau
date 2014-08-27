@@ -1,0 +1,25 @@
+#btsau-logo {
+    text-align: center;
+}
+
+#btsau-menu {
+}
+
+#btsau-menu > ul {
+    height: 53px;
+    background-color: #f4f4f4;
+    margin-right: 0px;
+}
+
+#btsau-menu > ul > li {
+    display: inline;
+    float: left; 
+    list-style: none; 
+    margin-right: 20px; 
+    position: relative;
+}
+
+#btsau-menu > ul > li > a {
+    display: block;
+    padding: 1.5em 0em;
+}
